@@ -19,18 +19,18 @@ I'm Frédéric and I'm:
 * Enterprise Architect
 * Speaker (conferences and meetups)
 * Technical writer
-* Coder at heart
+* Coder at heart</br>
 And an old demoscener who write and manage demonstrations on Atari ST all around the word!
 
 ## Certifications
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="100%" height="100%"/></ br>
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="50%" height="50%"/></br>
 ## Methodologies
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/gestion_de_projet.PNG" width="100%" height="100%"/></ br>
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/gestion_de_projet.PNG" width="50%" height="50%"/></br>
 ## Tools
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/tools.PNG" width="100%" height="100%"/></ br>
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/tools.PNG" width="50%" height="50%"/></br>
 ## My French Resume
 <details>
     <summary>
