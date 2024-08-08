@@ -12,9 +12,12 @@ I'm an IT Project Manager and freelancer in Grenoble, France. I have worked as a
 
 I'm Frédéric and I'm:
 
-* I'm a speaker (Conferences and meetups)
+* I'm a speaker (conferences and meetups)
 * Technical writer
 * Cybersecurity Consultant
+* An old demoscener who write and manage demonstrations on Atari ST
+* 
+* 
 * 
 * 
 
@@ -106,19 +109,19 @@ Dossiers et articles publiés dans le magazine [Technosaures](https://github.com
 
 ## Awards and Demoscene Recognition
 
-* 1st Place in the Oldschool Intro Competition: [So Fast Intro](https://demozoo.org/parties/4380/#competition_17114) - Shadow Party (France) (juin 2022)
-* 3rd Place in the Oldschool Demo Competition :[Square V2](https://demozoo.org/parties/4191/#competition_16408) - Revision 2021 (Germany) (avr. 2021)
-* 1st Place in the ATARI ST 96ko Demo Competition: [ShorTy](https://demozoo.org/parties/3173/#competition_13983) - Silly Venture (Poland) (déc. 2017)
-* 2nd Place at the Atari ST/STE Demo Competition: [Raiders Of The Lost Duke](https://demozoo.org/parties/3173/#competition_13984) - Silly Venture (Poland) (déc. 2017)
-* 1st Place in the Oldschool Demo Competition: [Smoke Town](https://demozoo.org/parties/2529/#competition_11550) - Very Important Party (France) (mai 2015)
-* 1st Place in the Oldschool Demo Competition: [0OMPA](https://demozoo.org/parties/2001/#competition_10422) - Very Important Party (France) (mai 2014)
-* 2nd Place at the Atari ST/STE 96Kb Intro Composition: [Return](https://demozoo.org/parties/1486/#competition_9650) - Silly Venture (Poland) (nov. 2013)
-* 2nd Place at the WILD Demo Competition: [Extra Volume 3: Special Sector One And THK](https://demozoo.org/parties/1360/#competition_2737) - Very Important Party (France) (avr. 2012)
+* 1st Place in the Oldschool Intro Competition: [So Fast Intro/NOEX](https://demozoo.org/parties/4380/#competition_17114) - Shadow Party (France) (juin 2022)
+* 3rd Place in the Oldschool Demo Competition : [Square V2/HMD](https://demozoo.org/parties/4191/#competition_16408) - Revision 2021 (Germany) (avr. 2021)
+* 1st Place in the ATARI ST 96ko Demo Competition: [ShorTy/NOEX](https://demozoo.org/parties/3173/#competition_13983) - Silly Venture (Poland) (déc. 2017)
+* 2nd Place at the Atari ST/STE Demo Competition: [Raiders Of The Lost Duke/HMD](https://demozoo.org/parties/3173/#competition_13984) - Silly Venture (Poland) (déc. 2017)
+* 1st Place in the Oldschool Demo Competition: [Smoke Town/NOEX](https://demozoo.org/parties/2529/#competition_11550) - Very Important Party (France) (mai 2015)
+* 1st Place in the Oldschool Demo Competition: [0OMPA/NOEX](https://demozoo.org/parties/2001/#competition_10422) - Very Important Party (France) (mai 2014)
+* 2nd Place at the Atari ST/STE 96Kb Intro Composition: [Return/HMD](https://demozoo.org/parties/1486/#competition_9650) - Silly Venture (Poland) (nov. 2013)
+* 2nd Place at the WILD Demo Competition: [Extra Volume 3: Special Sector One And THK/NOEX](https://demozoo.org/parties/1360/#competition_2737) - Very Important Party (France) (avr. 2012)
 * 3rd Place in the Combined Demo Competition: [Infinite Live Of The Blitter](https://demozoo.org/parties/1884/#competition_7754) - Alchimie (France) (nov. 2011)
 
 ## More Stats
 ![Frédéric's Most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NoExtra-Team&theme=radical&hide_langs_below=8)
-</ br>
+</br>
 ![Frédéric's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoExtra-Team&show_icons=true&theme=radical&count_private=true)
-</ br>
+</br>
 
