@@ -12,19 +12,25 @@ I'm an IT Project Manager and freelancer in Grenoble, France. I have worked as a
 
 I'm Frédéric and I'm:
 
-* I'm a speaker (conferences and meetups)
-* Technical writer
+* Technical Project Manager
+* Project Manager certified
 * Cybersecurity Consultant
-* An old demoscener who write and manage demonstrations on Atari ST
-* 
-* 
-* 
-* 
+* Team Leader
+* Enterprise Architect
+* Speaker (conferences and meetups)
+* Technical writer
+* Coder at heart
+And an old demoscener who write and manage demonstrations on Atari ST all around the word!
 
+## Certifications
+
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="100%" height="100%"/></ br>
+## Methodologies
+
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/gestion_de_projet.PNG" width="100%" height="100%"/></ br>
 ## Tools
 
-
-
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/tools.PNG" width="100%" height="100%"/></ br>
 ## My French Resume
 <details>
     <summary>
@@ -66,17 +72,17 @@ Filière Technologie, technicien d'électronique industrielle
 
 [![slideshare](https://img.shields.io/badge/slideshare--lightgrey?style=social&logo=slideshare)](https://fr.slideshare.net/fredericsagez)
 
-* [GDF-SUEZ/GRT-GAZ - Concept de l’Intégration Continue (17 nov. 2014)](https://fr.slideshare.net/slideshow/concept-de-lintgration-continue-fsav12-fr/41660160)
-* [ASFA - Projet COLSA Story-board v1 (1 déc. 2014)](https://fr.slideshare.net/slideshow/asfa-colsa-prsentation-storyboard-v1-28082014-fr-v10/42224988)
-* [ASFA - Organisation et Méthodologie du projet COLSA (9 mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-organisation/45618572)
-* [ASFA - Domain Driven Design Méthodologie (9 mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-ddd-18042014-frv10/45619193)
-* [AFUP - Mini conférences PHP : Les LOGs (26 janv. 2017)](https://fr.slideshare.net/slideshow/afup-mini-confrences-php-les-logs/71424655)
-* [PROGRAMMEZ - Atari ST, History of The OS (13 sept. 2018)](https://fr.slideshare.net/slideshow/atari-st-history-of-the-os/114254750)
-* [KLESIA - HOPEX V2R1, Database maintenance tasks (13 févr. 2019)](https://fr.slideshare.net/fredericsagez/hopex-v2r1-database-maintenance-tasks)
-* [FEDER - E-SYNERGIE, Présentation des outils du nouveau Plan Qualité Projet (3 févr. 2020)](https://fr.slideshare.net/slideshow/crr-esynergie-prsentation-des-outils-du-nouveau-plan-qualit-projet/226803254)
-* [KOELIS - Threat Modelling and managed risks for medical devices (17 juin 2022)](https://fr.slideshare.net/slideshow/threat-modeling-and-managed-risks-for-medical-devices/252005626)
+* [GDF-SUEZ/GRT-GAZ - Concept de l’Intégration Continue (nov. 2014)](https://fr.slideshare.net/slideshow/concept-de-lintgration-continue-fsav12-fr/41660160)
+* [ASFA - Projet COLSA Story-board v1 (déc. 2014)](https://fr.slideshare.net/slideshow/asfa-colsa-prsentation-storyboard-v1-28082014-fr-v10/42224988)
+* [ASFA - Organisation et Méthodologie du projet COLSA (mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-organisation/45618572)
+* [ASFA - Domain Driven Design Méthodologie (mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-ddd-18042014-frv10/45619193)
+* [AFUP - Mini conférences PHP : Les LOGs (janv. 2017)](https://fr.slideshare.net/slideshow/afup-mini-confrences-php-les-logs/71424655)
+* [PROGRAMMEZ - Atari ST, History of The OS (sept. 2018)](https://fr.slideshare.net/slideshow/atari-st-history-of-the-os/114254750)
+* [KLESIA - HOPEX V2R1, Database maintenance tasks (févr. 2019)](https://fr.slideshare.net/fredericsagez/hopex-v2r1-database-maintenance-tasks)
+* [FEDER - E-SYNERGIE, Présentation des outils du nouveau Plan Qualité Projet (févr. 2020)](https://fr.slideshare.net/slideshow/crr-esynergie-prsentation-des-outils-du-nouveau-plan-qualit-projet/226803254)
+* [KOELIS - Threat Modelling and managed risks for medical devices (juin 2022)](https://fr.slideshare.net/slideshow/threat-modeling-and-managed-risks-for-medical-devices/252005626)
 
-## French magazine articles
+## French magazine articles writer
 
 ### Programmez!
 Dossiers et articles publiés dans le magazine [Programmez!](https://github.com/NoExtra-Team/Magazine-Programmez)
@@ -124,7 +130,7 @@ Dossiers et articles publiés dans le magazine [Technosaures](https://github.com
 
 ## More Stats
 ![Frédéric's Most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NoExtra-Team&theme=radical&hide_langs_below=8)
-</br>
+</ br>
 ![Frédéric's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoExtra-Team&show_icons=true&theme=radical&count_private=true)
-</br>
+</ br>
 
