@@ -27,10 +27,10 @@ And an old demoscener who write and manage demonstrations on Atari ST all around
 <img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="50%" height="50%"/></br>
 ## Methodologies
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/gestion_de_projet.PNG" width="50%" height="50%"/></br>
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/gestion_de_projet.PNG" width="40%" height="40%"/></br>
 ## Tools
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/tools.PNG" width="50%" height="50%"/></br>
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/tools.PNG" width="70%" height="70%"/></br>
 ## My French Resume
 <details>
     <summary>
@@ -130,7 +130,6 @@ Dossiers et articles publiés dans le magazine [Technosaures](https://github.com
 
 ## More Stats
 ![Frédéric's Most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NoExtra-Team&theme=radical&hide_langs_below=8)
-</ br>
 ![Frédéric's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoExtra-Team&show_icons=true&theme=radical&count_private=true)
-</ br>
+</br>
 
