@@ -6,6 +6,8 @@ I'm an IT Project Manager and freelancer in Grenoble, France. I have worked as a
 ## Contact me
 
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/fsagez/)
+[![malt](https://img.shields.io/badge/malt--lightgrey?style=social&logo=malt)](https://www.malt.fr/profile/fredericsagez)
+[![jean-paul.io](https://img.shields.io/badge/jean-paul.io--lightgrey?style=social&logo=jean-paul.io)](https://www.jean-paul.io/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.fsagez@gmail.com)
 
 ## Who am I?
@@ -15,16 +17,16 @@ I'm Frédéric and I'm:
 * Technical Project Manager
 * Project Manager certified
 * Cybersecurity Consultant
-* Team Leader
 * Enterprise Architect
+* Team Leader
 * Speaker (conferences and meetups)
 * Technical writer
-* Coder at heart</br>
+* Coder at heart</br></br>
 And an old demoscener who write and manage demonstrations on Atari ST all around the word!
 
 ## Certifications
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="50%" height="50%"/></br>
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="40%" height="40%"/></br>
 ## Methodologies
 
 <img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/gestion_de_projet.PNG" width="40%" height="40%"/></br>
