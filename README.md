@@ -1,10 +1,20 @@
 <!-- update README.md-->
-## Welcome :man: 
+## Hi, I'm Frédéric Sagez 👋
+
+
+## Contact me
+
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/fsagez/)
-[![slideshare](https://img.shields.io/badge/slideshare--lightgrey?style=social&logo=slideshare)](https://fr.slideshare.net/fredericsagez)
-[![mixcloud](https://img.shields.io/badge/mixcloud--lightgrey?style=social&logo=mixcloud)](https://www.mixcloud.com/fredericsagez/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.fsagez@gmail.com)
 
+## Who am I?
+
+I'm Frédéric and I'm:
+
+* 
+
+
+## My French Resume
 <details>
     <summary>
         CV détaillé
@@ -39,9 +49,32 @@ Filière Technologie, technicien d'électronique industrielle
 
 ### LANGUES
 🇫🇷 🇬🇧
-
 </details>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoExtra-Team&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=NoExtra-Team&show_icons=true&theme=radical&count_private=true)
+## Talks
+
+[![slideshare](https://img.shields.io/badge/slideshare--lightgrey?style=social&logo=slideshare)](https://fr.slideshare.net/fredericsagez)
+
+* [GDF-SUEZ/GRT-GAZ - Concept de l’Intégration Continue (17 nov. 2014)](https://fr.slideshare.net/slideshow/concept-de-lintgration-continue-fsav12-fr/41660160)
+* [ASFA - Projet COLSA Story-board v1 (1 déc. 2014)](https://fr.slideshare.net/slideshow/asfa-colsa-prsentation-storyboard-v1-28082014-fr-v10/42224988)
+* [ASFA - Organisation et Méthodologie du projet COLSA (9 mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-organisation/45618572)
+* [ASFA - Domain Driven Design Méthodologie (9 mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-ddd-18042014-frv10/45619193)
+* [AFUP - Mini conférences PHP : Les LOGs (26 janv. 2017)](https://fr.slideshare.net/slideshow/afup-mini-confrences-php-les-logs/71424655)
+* [PROGRAMMEZ - Atari ST, History of The OS (13 sept. 2018)](https://fr.slideshare.net/slideshow/atari-st-history-of-the-os/114254750)
+* [KLESIA - HOPEX V2R1, Database maintenance tasks (13 févr. 2019)](https://fr.slideshare.net/fredericsagez/hopex-v2r1-database-maintenance-tasks)
+* [FEDER - E-SYNERGIE, Présentation des outils du nouveau Plan Qualité Projet (3 févr. 2020)](https://fr.slideshare.net/slideshow/crr-esynergie-prsentation-des-outils-du-nouveau-plan-qualit-projet/226803254)
+* [KOELIS - Threat Modelling and managed risks for medical devices (17 juin 2022)](https://fr.slideshare.net/slideshow/threat-modeling-and-managed-risks-for-medical-devices/252005626)
+
+## Radios
+
+[![mixcloud](https://img.shields.io/badge/mixcloud--lightgrey?style=social&logo=mixcloud)](https://www.mixcloud.com/fredericsagez/)
+
+* [Emission Cyber-Culture sur la radio Ici & Maintenant (95.2 FM) du 22/12/2012](https://www.mixcloud.com/fredericsagez/emission-cyber-culture-sur-la-radio-ici-maintenant-952-fm-du-22122012/)
+* [Emission Hotline sur la radio Ici & Maintenant (95.2 FM) du 01/12/2012](https://www.mixcloud.com/fredericsagez/emission-hotline-sur-la-radio-ici-maintenant-952-fm-du-01122012/)
+* [Emission Cyber-Culture sur la radio Ici & Maintenant (95.2 FM) du 20/10/2012](https://www.mixcloud.com/fredericsagez/emission-cyber-culture-sur-la-radio-ici-maintenant-952-fm-du-20102012/)
+
+## More Stats
+![Frédéric's Most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NoExtra-Team&theme=radical&hide_langs_below=8)
+
+![Frédéric's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoExtra-Team&show_icons=true&theme=radical&count_private=true)
 
