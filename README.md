@@ -1,8 +1,8 @@
 <!-- update README.md-->
 ## Welcome :man: 
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/fsagez/)
 [![slideshare](https://img.shields.io/badge/slideshare--lightgrey?style=social&logo=slideshare)](https://fr.slideshare.net/fredericsagez)
 [![mixcloud](https://img.shields.io/badge/mixcloud--lightgrey?style=social&logo=mixcloud)](https://www.mixcloud.com/fredericsagez/)
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/fsagez/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.fsagez@gmail.com)
 
 <details>
@@ -39,7 +39,6 @@ Filière Technologie, technicien d'électronique industrielle
 
 ### LANGUES
 🇫🇷 🇬🇧
-
 </details>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoExtra-Team&theme=radical&hide_langs_below=8)
