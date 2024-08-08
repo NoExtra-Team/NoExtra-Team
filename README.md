@@ -51,6 +51,27 @@ Filière Technologie, technicien d'électronique industrielle
 🇫🇷 🇬🇧
 </details>
 
+## Magazine articles
+
+### Programmez!
+Dossiers et articles publiés dans le magazine [Programmez!](https://github.com/NoExtra-Team/Magazine-Programmez)
+
+* Programmez! n°192 (janv. 2016) : Atari ST, la superstar (Dossier spécial Vintage) : article de trois pages reprenant l'actualité de l'Atari ST depuis le début du 21ème siècle
+* Programmez! n°203 (janv. 2017) : programmez sur Atari ST 30 ans après (Dossier Vintage) : article sur la programmation en Assembleur 68k sur Atari ST
+* Programmez! n°204 (févr. 2017) : Atari ST et le principe de l'Overscan : relecture et mise en page d'un article sur l'Overscan soft sur l'Atari ST par Sengan Baring-Gould (Alien/STCNX)
+* Programmez! n°207 (mai 2017) : programmation de Menu et Compilation sur Atari ST (Dossier Vintage) : article sur la programmation en Assembleur 68k et en GFA-BASIC sur Atari ST
+* Programmez! n°209 (juil. 2017) : gamme de l’ATARI ST : dossier spécial été avec un article sur la gamme de l'Atari ST : je vous dis tout sur cette machine familiale et emblématique des années 80
+* Programmez! n°221 (sept. 2018) : article sur le graphisme sur ATARI ST (Dossier Vintage) : article qui décrit le fonctionnement de l'affichage d'un Atari ST et surtout qui vous explique comment placer des pixels en assembleur 68K
+* Programmez! n°255 (déc. 2022) : article Cybersécurité sur la modélisation des menaces (Threat Modeling) : j'ai accompagné une PME dans le domaine du médical sur Grenoble à se remettre en question et à mieux appréhender les risques sur la sécurité informatique dans un contexte international
+
+### Technosaures
+Dossiers et articles publiés dans le magazine [Technosaures](https://github.com/NoExtra-Team/Magazine-Technosaures), le magazine qui remonte le temps !
+
+* Technosaures #1 (déc. 2019) : article de 5 pages traitant de la démoscène ou l’art du digital et la genèse du numérique
+* Technosaures #3 (mai 2020) : article de 5 pages sur la marque ATARI qui se lance dans les ordinateurs familiaux et qui sortira la gamme du 520 ST dans les années 80
+* Technosaures #13+14 (mai 2023) : présentation de deux articles sur la réparation d'un ZX Spectrum et comment rajeunir et nettoyer un boiter d'un Atari STF (solution anti-bright !)
+* Technosaures #17+18 (mai 2024) : je vous parle hardware sur Atari ST avec la carte ACSI2STM qui est un projet Open Source très prometteur
+
 ## Talks
 
 [![slideshare](https://img.shields.io/badge/slideshare--lightgrey?style=social&logo=slideshare)](https://fr.slideshare.net/fredericsagez)
