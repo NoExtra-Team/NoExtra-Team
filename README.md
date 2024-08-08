@@ -120,7 +120,7 @@ Dossiers et articles publiés dans le magazine [Technosaures](https://github.com
 * 1st Place in the Oldschool Demo Competition: [0OMPA/NOEX](https://demozoo.org/parties/2001/#competition_10422) - Very Important Party (France) (mai 2014)
 * 2nd Place at the Atari ST/STE 96Kb Intro Composition: [Return/HMD](https://demozoo.org/parties/1486/#competition_9650) - Silly Venture (Poland) (nov. 2013)
 * 2nd Place at the WILD Demo Competition: [Extra Volume 3: Special Sector One And THK/NOEX](https://demozoo.org/parties/1360/#competition_2737) - Very Important Party (France) (avr. 2012)
-* 3rd Place in the Combined Demo Competition: [Infinite Live Of The Blitter](https://demozoo.org/parties/1884/#competition_7754) - Alchimie (France) (nov. 2011)
+* 3rd Place in the Combined Demo Competition: [Infinite Live Of The Blitter/NOEX](https://demozoo.org/parties/1884/#competition_7754) - Alchimie (France) (nov. 2011)
 
 ## More Stats
 ![Frédéric's Most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NoExtra-Team&theme=radical&hide_langs_below=8)
