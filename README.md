@@ -7,7 +7,7 @@ I'm an IT Project Manager and freelancer in Grenoble, France. I have worked as a
 
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/fsagez/)
 [![malt](https://img.shields.io/badge/malt--lightgrey?style=social&logo=malt)](https://www.malt.fr/profile/fredericsagez)
-[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.fsagez@gmail.com)
+[![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:fsagez@gmail.com)
 
 ## Who am I?
 
