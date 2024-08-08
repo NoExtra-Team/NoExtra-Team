@@ -7,26 +7,26 @@ I'm an IT Project Manager and freelancer in Grenoble, France. I have worked as a
 
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/fsagez/)
 [![malt](https://img.shields.io/badge/malt--lightgrey?style=social&logo=malt)](https://www.malt.fr/profile/fredericsagez)
-[![jean-paul.io](https://img.shields.io/badge/jean-paul.io--lightgrey?style=social&logo=jean-paul)](https://www.jean-paul.io/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.fsagez@gmail.com)
 
 ## Who am I?
 
-I'm Frédéric and I'm:
+I'm Frédéric and in my life I'm a:
 
 * Technical Project Manager
 * Project Manager certified
 * Cybersecurity Consultant
 * Enterprise Architect
 * Team Leader
+* Functional and technical testing
+* Support and assistance for operating teams
 * Speaker (conferences and meetups)
 * Technical writer
-* Coder at heart</br></br>
-And an old demoscener who write and manage demonstrations on Atari ST all around the word!
+* Coder at heart... and an old demoscener who write and manage demonstrations on Atari ST all around the word!
 
 ## Certifications
 
-<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="40%" height="40%"/></br>
+<img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/certifs.PNG" width="50%" height="50%"/></br>
 ## Methodologies
 
 <img src="https://raw.githubusercontent.com/NoExtra-Team/NoExtra-Team/main/pictures/gestion_de_projet.PNG" width="40%" height="40%"/></br>
@@ -43,7 +43,7 @@ And an old demoscener who write and manage demonstrations on Atari ST all around
 ### 2023 – Ajourd'hui | Freelance
 Gestion de l'intégration et de la migration sur une nouvelle plateforme de l'ensemble des services et activités du Legacy d’une entité dans le domaine de la finance internationale 
 
-### 2022 à 2023 | Senior Project Coordinator | ATOS WORLDGRID
+### 2022 - 2023 | Senior Project Coordinator | ATOS WORLDGRID
 Garant de l'efficacité dans l'organisation des différents aspects liés aux projets Smart Metering (Roadmaps, planning, tableaux de bord, support de formation et communication) 
 
 ### 2021 – 2022 | Consultant IT | AGAP2 IT
@@ -56,15 +56,37 @@ Garant de l'efficacité dans l'organisation des différents aspects liés aux pr
 ### 2018 – 2019 | Architecte d'Entreprise | MEGA International
 Méthodologie, installation, formation et organisation autour de l'utilisation d’un référentiel d’Architecture d'Entreprise
 
+### 2017 | Chef de Projet Digital | IBM Interactive
+#### CREDIT AGRICOLE : UI Designer sur le nouveau portail Web (NPC). Développement du parcours client : écritures de spécifications fonctionnelles et techniques, suivi des développements et gestion des anomalies en mode Agile/Prince 2 avec le Centre de Services 
+
+### 2015 - 2016 | IT Support Officer | EGENCIA
+Définition et mise en place en mode Agile (Domain Driven Design) de l'architecture technique, des environnements et du développement d’applicatifs dans le cadre de la refonte de la plate-forme d’archivage du SI au sein du service support (ASFA)
+
+### 2014 | Chef de Projet SI | ANFA (Association Nationale pour la Formation Automobile)
+Définition et mise en place en mode Agile (Domain Driven Design) de l'architecture technique, des environnements et du développement d’applicatifs dans le cadre de la refonte de la plate-forme d’archivage du SI au sein du service support (ASFA)
+
+### 2012 - 2013 | Chef de Projet IT | PALO-IT
+#### VOYAGES-SNCF : Responsable du portail E-Commerce « Junior & Cie », mise en place de la qualité de service et de l’amélioration continue au sein de l’entité SNCF Connect & Tech (supervision Near shore de 12 collaborateurs) 
+
+### 2008 - 2011 | Architecte NTIC | ACCENTURE
+#### GDF-SUEZ : Mise en œuvre de l'architecture SOA du portail Web sur l'achat et la gestion des capacités gazières, suivi et réalisation de développements en tant que ScrumMaster, supervisant et manageant une équipe d’ingénieurs dans le cadre du projet TRANS@ctions
+
+### 2006 - 2008 | Delivery Manager | ATOS ORIGIN
+#### RENAULT : Élaboration et pilotage opérationnel de la production des services et livrables dans le respect des engagements QCD dans le cadre de mise en infogérance de l’application MAGNITUDE (outil de consolidation statutaire du CAC 40 du constructeur RENAULT). Mise en place de procédures PRIMA/CMMI (ISO 9001), facturation client et gestion du portefeuille (TQC / MQC). Création et  responsable d'une équipe de 2 personnes pour le support technique, astreinte. MAGNITUDE a obtenu le niveau de maturité CMMI de niveau 3.
+
 ## FORMATION
 ### 2024 –  Google Cybersecurity Certificat Professionnel – Coursera (Certification en ligne)
-Coursera certifies their successful completion of Google Cybersécurité Google Specialization  (Id CKNWHANYXRF5) 
-
+Coursera certifie la réussite de la spécialisation Google Cybersécurité de Google (Id: [CKNWHANYXRF5](https://coursera.org/share/db8e5ade7812546c72f02ea68f9ea6e3)) 
 ### 1997 – DUT Informatique – IUT de Vélizy Sciences et technologies (78)
 Diplôme d’informatique d'ingénierie informatique
-
 ### 1993 – Baccalauréat F2 – Lycée Général et Technologique Émilie de Breteuil (78)
 Filière Technologie, technicien d'électronique industrielle
+
+## CERTIFICATION
+### 2021 - L'essentiel de Project 2019 et Project Online (2019/365) (Id: [AUFGqgqIeng-IVLCDmjeT5wS6ivD](https://www.testdome.com/certificates/e9971ed2baac400b88942d180f9d600c)) – PMI (Certification en ligne) 
+### 2021 - SQL - Ranking in the top 10% (Id: [e9971ed2baac400b88942d180f9d600c](https://www.testdome.com/certificates/e9971ed2baac400b88942d180f9d600c)) – TESTDOME (Certification en ligne) 
+### 2020 - PRINCE2® Foundation (Méthode de management et gestion des projets - Id: [GR656154830FS](https://e.pcloud.link/publink/show?code=XZXPxuZk9zQHOpVJ5XI4o3IkPyzN5MamkO7)) - CERTyou (75) 
+### 2019 - ITIL® 4 Foundation (Méthodes et référentiel du management du système d'information - Id: [GR671069056FS](https://e.pcloud.link/publink/show?code=XZyPxuZaqKjuvNM71hKr34Srz12FSF3nwXX)) - CERTyou (75) 
 
 ### LANGUES
 🇫🇷 🇬🇧
