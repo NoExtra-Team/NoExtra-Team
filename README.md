@@ -21,6 +21,9 @@ I'm Frédéric and I'm:
 * 
 * 
 
+## Tools
+
+
 
 ## My French Resume
 <details>
@@ -59,6 +62,20 @@ Filière Technologie, technicien d'électronique industrielle
 🇫🇷 🇬🇧
 </details>
 
+## Talks
+
+[![slideshare](https://img.shields.io/badge/slideshare--lightgrey?style=social&logo=slideshare)](https://fr.slideshare.net/fredericsagez)
+
+* [GDF-SUEZ/GRT-GAZ - Concept de l’Intégration Continue (17 nov. 2014)](https://fr.slideshare.net/slideshow/concept-de-lintgration-continue-fsav12-fr/41660160)
+* [ASFA - Projet COLSA Story-board v1 (1 déc. 2014)](https://fr.slideshare.net/slideshow/asfa-colsa-prsentation-storyboard-v1-28082014-fr-v10/42224988)
+* [ASFA - Organisation et Méthodologie du projet COLSA (9 mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-organisation/45618572)
+* [ASFA - Domain Driven Design Méthodologie (9 mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-ddd-18042014-frv10/45619193)
+* [AFUP - Mini conférences PHP : Les LOGs (26 janv. 2017)](https://fr.slideshare.net/slideshow/afup-mini-confrences-php-les-logs/71424655)
+* [PROGRAMMEZ - Atari ST, History of The OS (13 sept. 2018)](https://fr.slideshare.net/slideshow/atari-st-history-of-the-os/114254750)
+* [KLESIA - HOPEX V2R1, Database maintenance tasks (13 févr. 2019)](https://fr.slideshare.net/fredericsagez/hopex-v2r1-database-maintenance-tasks)
+* [FEDER - E-SYNERGIE, Présentation des outils du nouveau Plan Qualité Projet (3 févr. 2020)](https://fr.slideshare.net/slideshow/crr-esynergie-prsentation-des-outils-du-nouveau-plan-qualit-projet/226803254)
+* [KOELIS - Threat Modelling and managed risks for medical devices (17 juin 2022)](https://fr.slideshare.net/slideshow/threat-modeling-and-managed-risks-for-medical-devices/252005626)
+
 ## French magazine articles
 
 ### Programmez!
@@ -79,20 +96,6 @@ Dossiers et articles publiés dans le magazine [Technosaures](https://github.com
 * Technosaures #3 (mai 2020) : article de 5 pages sur la marque ATARI qui se lance dans les ordinateurs familiaux et qui sortira la gamme du 520 ST dans les années 80
 * Technosaures #13+14 (mai 2023) : présentation de deux articles sur la réparation d'un ZX Spectrum et comment rajeunir et nettoyer un boiter d'un Atari STF (solution anti-bright !)
 * Technosaures #17+18 (mai 2024) : je vous parle hardware sur Atari ST avec la carte ACSI2STM qui est un projet Open Source très prometteur
-
-## Talks
-
-[![slideshare](https://img.shields.io/badge/slideshare--lightgrey?style=social&logo=slideshare)](https://fr.slideshare.net/fredericsagez)
-
-* [GDF-SUEZ/GRT-GAZ - Concept de l’Intégration Continue (17 nov. 2014)](https://fr.slideshare.net/slideshow/concept-de-lintgration-continue-fsav12-fr/41660160)
-* [ASFA - Projet COLSA Story-board v1 (1 déc. 2014)](https://fr.slideshare.net/slideshow/asfa-colsa-prsentation-storyboard-v1-28082014-fr-v10/42224988)
-* [ASFA - Organisation et Méthodologie du projet COLSA (9 mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-organisation/45618572)
-* [ASFA - Domain Driven Design Méthodologie (9 mars 2015)](https://fr.slideshare.net/slideshow/asfa-mthodologie-ddd-18042014-frv10/45619193)
-* [AFUP - Mini conférences PHP : Les LOGs (26 janv. 2017)](https://fr.slideshare.net/slideshow/afup-mini-confrences-php-les-logs/71424655)
-* [PROGRAMMEZ - Atari ST, History of The OS (13 sept. 2018)](https://fr.slideshare.net/slideshow/atari-st-history-of-the-os/114254750)
-* [KLESIA - HOPEX V2R1, Database maintenance tasks (13 févr. 2019)](https://fr.slideshare.net/fredericsagez/hopex-v2r1-database-maintenance-tasks)
-* [FEDER - E-SYNERGIE, Présentation des outils du nouveau Plan Qualité Projet (3 févr. 2020)](https://fr.slideshare.net/slideshow/crr-esynergie-prsentation-des-outils-du-nouveau-plan-qualit-projet/226803254)
-* [KOELIS - Threat Modelling and managed risks for medical devices (17 juin 2022)](https://fr.slideshare.net/slideshow/threat-modeling-and-managed-risks-for-medical-devices/252005626)
 
 ## Radios
 
